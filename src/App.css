@@ -1,0 +1,25 @@
+.time-container {
+  text-align: center;
+  color: rgb(120, 36, 148);
+}
+.time-inner-container {
+  display: inline-block;
+}
+.time-digits {
+  font-size: 4em;
+}
+.time-text {
+  display: flex;
+  justify-content: space-around;
+  color: rgb(178, 154, 209);
+}
+.threebuttons{
+
+  text-align: center;
+  color: rgb(178, 154, 209);
+}
+.btn{
+  width: 100px;
+  height: 200px;
+  color:rgb(178, 154, 209);
+}
